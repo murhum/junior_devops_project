@@ -33,7 +33,7 @@ grep -c href= wacken.html >> wacken_href.txt
 grep -c href= tons.html >> tons_href.txt
 
 
-#Now we will delete new 10 files using 'rm -rf *.txt' command
+#Now we will delete all new 10 files using 'rm -rf *.txt' command
 rm -rf *.txt
 
 #Maesure execution time
