@@ -1,4 +1,4 @@
-Endava Junior DevOps Challenge
+ Junior DevOps Challenge
 
 For the purpose of this project use bash script
 
