@@ -1,14 +1,12 @@
  Junior DevOps Challenge
 
-For the purpose of this project use bash script
+For the purpose of this project use bash script.
 
-1.Creating a shell file using vi (#!/bin/bash) and add START=$(date +%s) to start measure
+1.Creating a shell file using vi (#!/bin/bash) and add START=$(date +%s) to start measure.
 
-2.Use mkdir to create a new project directory: 'mkdir dirname'
+2.Use 'wget' command to download the content of 10 websites.
 
-3.Then use 'wget' command to download the content of 10 websites and add'--output-document=' to name them: '--output-document=indexpage.html https://www.example.com
-
-4.To count "href=" use 'grep' command with '-c': grep -c href= indexpage.html >> text_file_to_save_the_result.txt
+4.To count "href=" use 'grep' command with '-c'.
 
 5.Delete all new files with 'rm' command: rm -rf *.txt
 
