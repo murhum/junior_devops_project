@@ -1,4 +1,4 @@
- Junior DevOps Challenge
+ Junior DevOps Tutorial
 
 For the purpose of this project use bash script.
 
